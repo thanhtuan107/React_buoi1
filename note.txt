@@ -1,0 +1,24 @@
+=== BUOI 1 ===
+-Component:
+    * Stateful: class
+    * Stateless : function
+
+*Bai tap 1 
+    - header
+    - navbar
+    - content
+    - footer
+*Example-2 (home)
+    - header
+    - carousel
+    - listCard 
+    - Card
+    - footer 
+
+=== BUOI 2 ===
+- Rendering Element : {}
+- Handling Event : onlick
+- State: component re-render -> khi ma state co gia tri thay doi 
+    const [variable, method ] = useState(defaultValue)
+        - defaultValue la gia tri mac dinh cho variable
+        - method de cap nhat gia tri  moi cho variable
